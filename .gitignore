@@ -31,3 +31,4 @@
 #Allow files under subtree
 !/dist/*
 !.gitignore
+!/README.md
